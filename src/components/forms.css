@@ -1,0 +1,29 @@
+.forma {
+    border-radius: 0rem;
+    background-color: #FEDBDF;
+    color: #555454;
+    margin-top: 30px;
+    
+}
+
+.create {
+ 
+width: 100px;
+height: 34.96px;
+
+background: #F94B5D;
+border-radius: 10px;
+}
+
+
+.butoni{
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
