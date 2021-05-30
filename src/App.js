@@ -7,6 +7,7 @@ import { Container, Row, Col } from 'react-grid-system'
 import Robot from './components/Robot'
 import NewTask from './components/Create'
 import All from './components/All' 
+import FaqeTask from './components/FaqeTask'
 
 
 
